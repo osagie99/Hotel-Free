@@ -1,0 +1,67 @@
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+.logo {
+    overflow: auto;
+    padding-left: 0px;
+}
+
+#navbar ul,
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+/* Homoe INnfo */
+
+#home-info .info-img {
+display: none;
+}
+#home-info .info-content {
+    float: right;
+    width: 100%;
+    height: 100%;
+}
+
+/* Feautures */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* About Info */
+
+#about-info .info-right,
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    margin-top: 30px;
+}
+
+.l-heading {
+    text-align: center;
+}
+
+/* Contact */
+
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
+
+#showcase .showcase-content{
+    padding-top: 70px;
+    padding-bottom: 30px;
+} 
+#showcase {
+    height: 100%;
+}
